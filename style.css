@@ -1,0 +1,17 @@
+body {
+    background-color: #0f0f0f;
+}
+
+.search-bar {
+    background-color: red;
+    padding: 15px;
+    margin-top: 5px;
+    margin-left: 150px;
+}
+
+.grid {
+    display: flex;
+    justify-content: space-around;
+
+}
+
